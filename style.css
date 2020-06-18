@@ -81,3 +81,7 @@ form button:hover {
     text-decoration: line-through;
     opacity: 0.7;
 }
+.todo-count{
+  text-align: center;
+  font-size: large;
+}
